@@ -88,6 +88,8 @@ console.log("hello world");
 console.log("hello world");
 ```
 
+#next time try to add emojies
+
 
 <!-- KaTeX is a cross-browser javascript library that displays mathematical otations in web browser .it puts special emphasis on being fast and easy to use.
 It was initially developed by khan academy and became one of the five trending project on Github in 2014.-->
